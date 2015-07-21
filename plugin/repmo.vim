@@ -111,7 +111,7 @@ if !exists("g:repmo_key")
     " let g:repmo_key = "<Space>"
     " let g:repmo_revkey = "<BS>"
     let g:repmo_key = ";"
-    let g:repmo_revkey = ","
+    let g:repmo_revkey = "<BS>"
 endif
 
 " motions to map per default
